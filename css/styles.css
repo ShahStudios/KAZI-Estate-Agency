@@ -761,7 +761,7 @@ a {
       rgba(31, 31, 31, 0.8),
       rgba(31, 31, 31, 0.96)
     ),
-    url(https://images.unsplash.com/photo-1516501312919-d0cb0b7b60b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1732&q=80);
+    url(/img/banner-images/banner-1.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -776,7 +776,7 @@ a {
       rgba(31, 31, 31, 0.8),
       rgba(31, 31, 31, 0.96)
     ),
-    url(https://images.unsplash.com/photo-1516501312919-d0cb0b7b60b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1732&q=80);
+    url(/img/banner-images/banner-2.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -791,7 +791,7 @@ a {
       rgba(31, 31, 31, 0.8),
       rgba(31, 31, 31, 0.96)
     ),
-    url(https://images.unsplash.com/photo-1516501312919-d0cb0b7b60b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1732&q=80);
+    url(img/banner-images/banner-3.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
