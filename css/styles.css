@@ -761,7 +761,7 @@ a {
       rgba(31, 31, 31, 0.8),
       rgba(31, 31, 31, 0.96)
     ),
-    url(/img/banner-images/banner-1.jpg);
+    url(img/banner-images/banner-1.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -776,7 +776,7 @@ a {
       rgba(31, 31, 31, 0.8),
       rgba(31, 31, 31, 0.96)
     ),
-    url(/img/banner-images/banner-2.jpg);
+    url(img/banner-images/banner-2.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -791,7 +791,7 @@ a {
       rgba(31, 31, 31, 0.8),
       rgba(31, 31, 31, 0.96)
     ),
-    url(/img/banner-images/banner-3.jpg);
+    url(img/banner-images/banner-3.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -808,7 +808,7 @@ a {
       rgba(50, 69, 68, 0.8),
       rgba(50, 69, 68, 0.8)
     ),
-    url(../img/neighborhood.jpg);
+    url(img/neighborhood.jpg);
   background-position: bottom;
 }
 .heading-section {
