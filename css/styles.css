@@ -121,6 +121,11 @@ main .item .cover .header-content {
   padding: 56px;
   overflow: hidden;
 }
+@media (max-width: 450px) { 
+  main .item .cover .header-content {
+  padding: 20px;
+  }
+ }
 main .item .cover .header-content .line {
   content: "";
   display: inline-block;
@@ -506,6 +511,14 @@ a {
   background-color: #fc595a;
   border-radius: 0;
 }
+@media (max-width: 450px) { 
+  #gallery-section .learn-more-card__title {
+    font-size: 10px;
+  }
+  #gallery-section .learn-more-card__copy {
+    font-size: 8px;
+  }
+ }
 /*==========================================
              End: CTA-Section
 ============================================*/
@@ -761,7 +774,7 @@ a {
       rgba(31, 31, 31, 0.8),
       rgba(31, 31, 31, 0.96)
     ),
-    url(/img/banner-images/banner-1.jpg);
+    url(img/banner-images/banner-1.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -776,7 +789,7 @@ a {
       rgba(31, 31, 31, 0.8),
       rgba(31, 31, 31, 0.96)
     ),
-    url(/img/banner-images/banner-2.jpg);
+    url(img/banner-images/banner-2.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -808,7 +821,7 @@ a {
       rgba(50, 69, 68, 0.8),
       rgba(50, 69, 68, 0.8)
     ),
-    url(https://images.unsplash.com/photo-1516501312919-d0cb0b7b60b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1732&q=80);
+    url(mg/banner-images/banner-3.jpg);
   background-position: bottom;
 }
 .heading-section {
@@ -877,8 +890,20 @@ a {
   color: #222;
 }
 @media (max-width: 414px) {
+  .content-box-sm {
+    padding: 30px 0;
+}
   .heading-secondary {
     font-size: 28px;
+  }
+  #features .text-wrapper {
+    padding: 0 0;
+  }
+  #features .heading-secondary {
+    padding-bottom: 30px;
+  }
+  #features .paragraph {
+    padding-bottom: 30px;
   }
 }
 /*==========================================
