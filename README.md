@@ -6,4 +6,4 @@ Web application built for small real estate companies.
 * Developing user interfaces with web technologies including HTML, CSS, and Javascript
 
 # View Project
-https://shahstudios.github.io/KAZI-Estate-Agency/
+https://shahstudios.github.io/KaziEstate/
